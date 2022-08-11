@@ -1,0 +1,30 @@
+.cards {
+  display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+    padding: 27px;
+    height: 80%;
+    text-align: center;
+}
+
+.inner_cards {
+  text-align: center;
+  box-shadow: 0 0 5px rgb(230 230 230);
+  margin: 50px;
+  padding: 25px;
+  height: 233px;
+  width: 80%;
+  background-color: white;
+}
+
+.fa-solid {
+  font-size: 32px;
+}
+
+.card-container h2 {
+  text-align: center;
+  margin-top: 61px;
+  color: white;
+}
